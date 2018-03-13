@@ -6,7 +6,7 @@ Things you need in addition to this are a Zclassic directory - this will be crea
 
 A zclassic.conf file - there's one in the repository to get you started, this should be placed in the Zclassic directory mentioned in the previous paragraph
 
-A ZcashParams directory, located at c:\users\\%username%\AppData\Roaming\Zclassic, with the Sprout proving and verifying keys - a one time download 
+A ZcashParams directory, located at c:\users\\%username%\AppData\Roaming\ZcashParams, with the Sprout proving and verifying keys - a one time download 
 
 [ZCash Proving Key](https://z.cash/downloads/sprout-proving.key)
 
