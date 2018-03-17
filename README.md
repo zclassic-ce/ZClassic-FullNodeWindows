@@ -1,6 +1,6 @@
 # This is the ZCL full node for Windows
 
-The zclassicd.exe is the file that you need to download and run - this will start a full ZClassic node.
+The zclassicd.exe is the file that you need to download and run - this will start a full ZClassic node. Be aware that this is compiled, alpha release software - you use at your own risk, but for best security you should always build from the source code. The compiled executable is here for convenience.
 
 Things you need in addition to this are a Zclassic directory - this will be created for you when you first run the exe and is located at c:\users\\%username%\AppData\Roaming\Zclassic.
 
